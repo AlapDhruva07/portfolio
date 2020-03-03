@@ -3,7 +3,7 @@ import React from 'react';
 function Nav() {
     return(
       <nav className="navbar navbar-expand-md bg-dark navbar-dark">
-              <a class="navbar-brand" href="#"> Alap Dhruva</a>
+              <a className="navbar-brand" href="index.html"> Alap Dhruva</a>
                   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                       <span className="navbar-toggler-icon"></span>
                   </button>
